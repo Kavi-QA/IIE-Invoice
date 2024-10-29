@@ -94,15 +94,6 @@ public class Buttons extends BaseClass  {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	public WebElement getInvoiceNumber() {
 		return InvoiceNumber;
 	}
